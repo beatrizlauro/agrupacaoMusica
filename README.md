@@ -43,6 +43,15 @@ Agrupar músicas por **características de áudio** (ex: ritmo, energia, valênc
 
 ---
 
+## 📘 Material Complementar
+
+Elaborei um documento explicativo para detalhar a interpretação dos gráficos gerados e facilitar a análise dos resultados obtidos com os métodos K-Means e Hierarchical Clustering.
+
+📎 **Arquivo:** [`PI2 - Análise dos gráficos.pdf`](./PI2%20-%20An%C3%A1lise%20dos%20gr%C3%A1ficos.pdf)  
+📌 **Conteúdo:** explicação dos métodos, gráficos (Elbow, Silhouette, PCA, Boxplots e Dendrograma) e interpretações sobre os perfis musicais identificados.
+
+---
+
 ## 📉 Interpretação dos Resultados
 
 - Cada **cluster** representa um grupo de músicas com perfis sonoros semelhantes;
